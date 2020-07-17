@@ -169,14 +169,19 @@ height: 600px;
 #contact-form input:focus
 #contact-form textarea:focus{
     outline: none;
-    border-color: coral;
+    border-color:  coral;
+}
+
+
+.article2 {
+    border: 2px solid coral;
 }
 
 /* Features */
 .box{
     float:left;
     width:33.3%;
-    padding:50px;
+    padding:70px;
     text-align:center;
 }
 /* Footer */
@@ -190,3 +195,4 @@ height: 600px;
 .ff{
     background: url('img/photo-1.jpg');
 }
+
